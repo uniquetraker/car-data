@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "BMW",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bmw.png"
+  },
+  {
+    "id": 2,
+    "name": "Audi",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/audi.png"
+  },
+  {
+    "id": 3,
+    "name": "Mercedes-Benz",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mercedes-benz.png"
+  },
+  {
+    "id": 4,
+    "name": "Honda",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/honda.png"
+  },
+  {
+    "id": 5,
+    "name": "Hyundai",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/hyundai.png"
+  },
+  {
+    "id": 6,
+    "name": "Toyota",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/toyota.png"
+  },
+  {
+    "id": 7,
+    "name": "Tata",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tata.png"
+  },
+  {
+    "id": 8,
+    "name": "Mahindra",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mahindra.png"
+  },
+  {
+    "id": 9,
+    "name": "Maruti Suzuki",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/maruti-suzuki.png"
+  },
+  {
+    "id": 10,
+    "name": "Kia",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/kia.png"
+  },
+  {
+    "id": 11,
+    "name": "MG",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mg.png"
+  },
+  {
+    "id": 12,
+    "name": "Renault",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/renault.png"
+  },
+  {
+    "id": 13,
+    "name": "Nissan",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/nissan.png"
+  },
+  {
+    "id": 14,
+    "name": "Skoda",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/skoda.png"
+  },
+  {
+    "id": 15,
+    "name": "Volkswagen",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/volkswagen.png"
+  },
+  {
+    "id": 16,
+    "name": "Jeep",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/jeep.png"
+  },
+  {
+    "id": 17,
+    "name": "Citroen",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/citroen.png"
+  },
+  {
+    "id": 18,
+    "name": "Volvo",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/volvo.png"
+  },
+  {
+    "id": 19,
+    "name": "Jaguar",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/jaguar.png"
+  },
+  {
+    "id": 20,
+    "name": "Land Rover",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/land-rover.png"
+  },
+  {
+    "id": 21,
+    "name": "Lexus",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/lexus.png"
+  },
+  {
+    "id": 22,
+    "name": "Porsche",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/porsche.png"
+  },
+  {
+    "id": 23,
+    "name": "Mini",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mini.png"
+  },
+  {
+    "id": 24,
+    "name": "Ferrari",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ferrari.png"
+  },
+  {
+    "id": 25,
+    "name": "Lamborghini",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/lamborghini.png"
+  },
+  {
+    "id": 26,
+    "name": "Bentley",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bentley.png"
+  },
+  {
+    "id": 27,
+    "name": "Rolls-Royce",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/rolls-royce.png"
+  },
+  {
+    "id": 28,
+    "name": "Maserati",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/maserati.png"
+  },
+  {
+    "id": 29,
+    "name": "Aston Martin",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/aston-martin.png"
+  },
+  {
+    "id": 30,
+    "name": "McLaren",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mclaren.png"
+  },
+  {
+    "id": 31,
+    "name": "Tesla",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tesla.png"
+  },
+  {
+    "id": 32,
+    "name": "BYD",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/byd.png"
+  },
+  {
+    "id": 33,
+    "name": "Isuzu",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/isuzu.png"
+  },
+  {
+    "id": 34,
+    "name": "Force Motors",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/force-motors.png"
+  },
+  {
+    "id": 35,
+    "name": "Chevrolet",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/chevrolet.png"
+  },
+  {
+    "id": 36,
+    "name": "Mitsubishi",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mitsubishi.png"
+  },
+  {
+    "id": 37,
+    "name": "Fiat",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/fiat.png"
+  },
+  {
+    "id": 38,
+    "name": "Datsun",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/datsun.png"
+  },
+  {
+    "id": 39,
+    "name": "Opel",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/opel.png"
+  }
+]
