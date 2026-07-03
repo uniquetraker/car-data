@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 1001,
+    "brandId": 1,
+    "name": "2 Series",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1002,
+    "brandId": 1,
+    "name": "3 Series",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1003,
+    "brandId": 1,
+    "name": "5 Series",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1004,
+    "brandId": 1,
+    "name": "7 Series",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1005,
+    "brandId": 1,
+    "name": "X1",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1006,
+    "brandId": 1,
+    "name": "X3",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1007,
+    "brandId": 1,
+    "name": "X5",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1008,
+    "brandId": 1,
+    "name": "i4",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1009,
+    "brandId": 1,
+    "name": "iX",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1010,
+    "brandId": 2,
+    "name": "A4",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1011,
+    "brandId": 2,
+    "name": "A6",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1012,
+    "brandId": 2,
+    "name": "Q3",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1013,
+    "brandId": 2,
+    "name": "Q5",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1014,
+    "brandId": 2,
+    "name": "Q7",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1015,
+    "brandId": 2,
+    "name": "Q8",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1016,
+    "brandId": 2,
+    "name": "e-tron GT",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1017,
+    "brandId": 3,
+    "name": "A-Class",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1018,
+    "brandId": 3,
+    "name": "C-Class",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1019,
+    "brandId": 3,
+    "name": "E-Class",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1020,
+    "brandId": 3,
+    "name": "GLA",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1021,
+    "brandId": 3,
+    "name": "GLC",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1022,
+    "brandId": 3,
+    "name": "GLE",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1023,
+    "brandId": 3,
+    "name": "GLS",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1024,
+    "brandId": 3,
+    "name": "EQS",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1025,
+    "brandId": 4,
+    "name": "Amaze",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1026,
+    "brandId": 4,
+    "name": "City",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1027,
+    "brandId": 4,
+    "name": "Elevate",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1028,
+    "brandId": 4,
+    "name": "WR-V",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1029,
+    "brandId": 4,
+    "name": "Jazz",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1030,
+    "brandId": 4,
+    "name": "Civic",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1031,
+    "brandId": 5,
+    "name": "Grand i10 Nios",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1032,
+    "brandId": 5,
+    "name": "Exter",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1033,
+    "brandId": 5,
+    "name": "Venue",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1034,
+    "brandId": 5,
+    "name": "Creta",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1035,
+    "brandId": 5,
+    "name": "Alcazar",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1036,
+    "brandId": 5,
+    "name": "Verna",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1037,
+    "brandId": 5,
+    "name": "Tucson",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1038,
+    "brandId": 5,
+    "name": "Ioniq 5",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1039,
+    "brandId": 6,
+    "name": "Glanza",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1040,
+    "brandId": 6,
+    "name": "Urban Cruiser Taisor",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1041,
+    "brandId": 6,
+    "name": "Rumion",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1042,
+    "brandId": 6,
+    "name": "Innova Hycross",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1043,
+    "brandId": 6,
+    "name": "Fortuner",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1044,
+    "brandId": 6,
+    "name": "Hilux",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1045,
+    "brandId": 6,
+    "name": "Camry",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1046,
+    "brandId": 7,
+    "name": "Tiago",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1047,
+    "brandId": 7,
+    "name": "Tigor",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1048,
+    "brandId": 7,
+    "name": "Altroz",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1049,
+    "brandId": 7,
+    "name": "Punch",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1050,
+    "brandId": 7,
+    "name": "Nexon",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1051,
+    "brandId": 7,
+    "name": "Harrier",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1052,
+    "brandId": 7,
+    "name": "Safari",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1053,
+    "brandId": 7,
+    "name": "Curvv",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1054,
+    "brandId": 8,
+    "name": "Bolero",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1055,
+    "brandId": 8,
+    "name": "Thar",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1056,
+    "brandId": 8,
+    "name": "XUV 3XO",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1057,
+    "brandId": 8,
+    "name": "Scorpio N",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1058,
+    "brandId": 8,
+    "name": "XUV700",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1059,
+    "brandId": 8,
+    "name": "BE 6",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1060,
+    "brandId": 9,
+    "name": "Alto K10",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1061,
+    "brandId": 9,
+    "name": "S-Presso",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1062,
+    "brandId": 9,
+    "name": "WagonR",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1063,
+    "brandId": 9,
+    "name": "Swift",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1064,
+    "brandId": 9,
+    "name": "Dzire",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1065,
+    "brandId": 9,
+    "name": "Baleno",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1066,
+    "brandId": 9,
+    "name": "Brezza",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1067,
+    "brandId": 9,
+    "name": "Grand Vitara",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1068,
+    "brandId": 9,
+    "name": "Fronx",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1069,
+    "brandId": 10,
+    "name": "Sonet",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1070,
+    "brandId": 10,
+    "name": "Syros",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1071,
+    "brandId": 10,
+    "name": "Seltos",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1072,
+    "brandId": 10,
+    "name": "Carens",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1073,
+    "brandId": 10,
+    "name": "Carnival",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1074,
+    "brandId": 10,
+    "name": "EV6",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1075,
+    "brandId": 11,
+    "name": "Comet EV",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1076,
+    "brandId": 11,
+    "name": "Astor",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1077,
+    "brandId": 11,
+    "name": "Hector",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1078,
+    "brandId": 11,
+    "name": "Gloster",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1079,
+    "brandId": 11,
+    "name": "Windsor EV",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1080,
+    "brandId": 11,
+    "name": "ZS EV",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1081,
+    "brandId": 12,
+    "name": "Kwid",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1082,
+    "brandId": 12,
+    "name": "Kiger",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1083,
+    "brandId": 12,
+    "name": "Triber",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1084,
+    "brandId": 13,
+    "name": "Magnite",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1085,
+    "brandId": 13,
+    "name": "X-Trail",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1086,
+    "brandId": 14,
+    "name": "Kylaq",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1087,
+    "brandId": 14,
+    "name": "Slavia",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1088,
+    "brandId": 14,
+    "name": "Kushaq",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1089,
+    "brandId": 14,
+    "name": "Superb",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1090,
+    "brandId": 14,
+    "name": "Kodiaq",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1091,
+    "brandId": 15,
+    "name": "Virtus",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1092,
+    "brandId": 15,
+    "name": "Taigun",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1093,
+    "brandId": 15,
+    "name": "Tiguan R-Line",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1094,
+    "brandId": 16,
+    "name": "Compass",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1095,
+    "brandId": 16,
+    "name": "Meridian",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1096,
+    "brandId": 16,
+    "name": "Wrangler",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1097,
+    "brandId": 16,
+    "name": "Grand Cherokee",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1098,
+    "brandId": 17,
+    "name": "C3",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1099,
+    "brandId": 17,
+    "name": "Basalt",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1100,
+    "brandId": 17,
+    "name": "Aircross",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1101,
+    "brandId": 17,
+    "name": "eC3",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1102,
+    "brandId": 18,
+    "name": "EX40",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1103,
+    "brandId": 18,
+    "name": "XC60",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1104,
+    "brandId": 18,
+    "name": "XC90",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1105,
+    "brandId": 18,
+    "name": "C40 Recharge",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1106,
+    "brandId": 19,
+    "name": "F-PACE",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1107,
+    "brandId": 19,
+    "name": "I-PACE",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1108,
+    "brandId": 20,
+    "name": "Defender",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1109,
+    "brandId": 20,
+    "name": "Discovery Sport",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1110,
+    "brandId": 20,
+    "name": "Range Rover Evoque",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1111,
+    "brandId": 20,
+    "name": "Range Rover Sport",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1112,
+    "brandId": 20,
+    "name": "Range Rover",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1113,
+    "brandId": 21,
+    "name": "ES",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1114,
+    "brandId": 21,
+    "name": "NX",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1115,
+    "brandId": 21,
+    "name": "RX",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1116,
+    "brandId": 21,
+    "name": "LX",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1117,
+    "brandId": 22,
+    "name": "Macan",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1118,
+    "brandId": 22,
+    "name": "Cayenne",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1119,
+    "brandId": 22,
+    "name": "911",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1120,
+    "brandId": 22,
+    "name": "Taycan",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1121,
+    "brandId": 22,
+    "name": "Panamera",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1122,
+    "brandId": 23,
+    "name": "Cooper 3 Door",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1123,
+    "brandId": 23,
+    "name": "Cooper Countryman",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1124,
+    "brandId": 24,
+    "name": "Roma",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1125,
+    "brandId": 24,
+    "name": "296 GTB",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1126,
+    "brandId": 24,
+    "name": "SF90 Stradale",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1127,
+    "brandId": 24,
+    "name": "Purosangue",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1128,
+    "brandId": 25,
+    "name": "Huracan",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1129,
+    "brandId": 25,
+    "name": "Revuelto",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1130,
+    "brandId": 25,
+    "name": "Urus",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1131,
+    "brandId": 26,
+    "name": "Bentayga",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1132,
+    "brandId": 26,
+    "name": "Flying Spur",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1133,
+    "brandId": 26,
+    "name": "Continental GT",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1134,
+    "brandId": 27,
+    "name": "Ghost",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1135,
+    "brandId": 27,
+    "name": "Cullinan",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1136,
+    "brandId": 27,
+    "name": "Phantom",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1137,
+    "brandId": 27,
+    "name": "Spectre",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1138,
+    "brandId": 28,
+    "name": "Grecale",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1139,
+    "brandId": 28,
+    "name": "Ghibli",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1140,
+    "brandId": 28,
+    "name": "Levante",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1141,
+    "brandId": 28,
+    "name": "MC20",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1142,
+    "brandId": 29,
+    "name": "DB12",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1143,
+    "brandId": 29,
+    "name": "Vantage",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1144,
+    "brandId": 29,
+    "name": "DBX",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1145,
+    "brandId": 30,
+    "name": "GT",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1146,
+    "brandId": 30,
+    "name": "750S",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1147,
+    "brandId": 30,
+    "name": "Artura",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1148,
+    "brandId": 31,
+    "name": "Model 3",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1149,
+    "brandId": 31,
+    "name": "Model Y",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1150,
+    "brandId": 31,
+    "name": "Model S",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1151,
+    "brandId": 31,
+    "name": "Model X",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1152,
+    "brandId": 31,
+    "name": "Cybertruck",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1153,
+    "brandId": 32,
+    "name": "Atto 3",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1154,
+    "brandId": 32,
+    "name": "Seal",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1155,
+    "brandId": 32,
+    "name": "eMAX 7",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1156,
+    "brandId": 33,
+    "name": "D-Max V-Cross",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1157,
+    "brandId": 33,
+    "name": "MU-X",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1158,
+    "brandId": 34,
+    "name": "Gurkha",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1159,
+    "brandId": 34,
+    "name": "Urbania",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1160,
+    "brandId": 35,
+    "name": "Beat",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1161,
+    "brandId": 35,
+    "name": "Cruze",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1162,
+    "brandId": 35,
+    "name": "Captiva",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1163,
+    "brandId": 35,
+    "name": "Trailblazer",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1164,
+    "brandId": 36,
+    "name": "Pajero Sport",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1165,
+    "brandId": 36,
+    "name": "Outlander",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1166,
+    "brandId": 37,
+    "name": "Punto",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1167,
+    "brandId": 37,
+    "name": "Linea",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1168,
+    "brandId": 37,
+    "name": "Avventura",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1169,
+    "brandId": 38,
+    "name": "redi-GO",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1170,
+    "brandId": 38,
+    "name": "GO",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1171,
+    "brandId": 38,
+    "name": "GO Plus",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1172,
+    "brandId": 39,
+    "name": "Corsa",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1173,
+    "brandId": 39,
+    "name": "Astra",
+    "price": "",
+    "image": ""
+  },
+  {
+    "id": 1174,
+    "brandId": 39,
+    "name": "Vectra",
+    "price": "",
+    "image": ""
+  }
+]
