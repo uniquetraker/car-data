@@ -1,1220 +1,1525 @@
 [
+  
   {
     "id": 1001,
     "brandId": 1,
     "name": "2 Series",
-    "price": "",
-    "image": ""
+    "price": 4390000,
+    "priceText": "₹43.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1002,
     "brandId": 1,
     "name": "3 Series",
-    "price": "",
-    "image": ""
+    "price": 7590000,
+    "priceText": "₹75.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1003,
     "brandId": 1,
     "name": "5 Series",
-    "price": "",
-    "image": ""
+    "price": 7290000,
+    "priceText": "₹72.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1004,
     "brandId": 1,
     "name": "7 Series",
-    "price": "",
-    "image": ""
+    "price": 18400000,
+    "priceText": "₹1.84 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1005,
     "brandId": 1,
     "name": "X1",
-    "price": "",
-    "image": ""
+    "price": 5090000,
+    "priceText": "₹50.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1006,
     "brandId": 1,
     "name": "X3",
-    "price": "",
-    "image": ""
+    "price": 7590000,
+    "priceText": "₹75.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1007,
     "brandId": 1,
     "name": "X5",
-    "price": "",
-    "image": ""
+    "price": 9790000,
+    "priceText": "₹97.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1008,
     "brandId": 1,
     "name": "i4",
-    "price": "",
-    "image": ""
+    "price": 7270000,
+    "priceText": "₹72.70 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1009,
     "brandId": 1,
     "name": "iX",
-    "price": "",
-    "image": ""
+    "price": 14090000,
+    "priceText": "₹1.41 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
+  
   {
     "id": 1010,
     "brandId": 2,
     "name": "A4",
-    "price": "",
-    "image": ""
+    "price": 4699000,
+    "priceText": "₹46.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1011,
     "brandId": 2,
     "name": "A6",
-    "price": "",
-    "image": ""
+    "price": 6699000,
+    "priceText": "₹66.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1012,
     "brandId": 2,
     "name": "Q3",
-    "price": "",
-    "image": ""
+    "price": 4499000,
+    "priceText": "₹44.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1013,
     "brandId": 2,
     "name": "Q5",
-    "price": "",
-    "image": ""
+    "price": 6699000,
+    "priceText": "₹66.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1014,
     "brandId": 2,
     "name": "Q7",
-    "price": "",
-    "image": ""
+    "price": 9048000,
+    "priceText": "₹90.48 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1015,
     "brandId": 2,
     "name": "Q8",
-    "price": "",
-    "image": ""
+    "price": 11749000,
+    "priceText": "₹1.17 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1016,
     "brandId": 2,
     "name": "e-tron GT",
-    "price": "",
-    "image": ""
+    "price": 17299000,
+    "priceText": "₹1.73 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1017,
     "brandId": 3,
     "name": "A-Class",
-    "price": "",
-    "image": ""
+    "price": 4690000,
+    "priceText": "₹46.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1018,
     "brandId": 3,
     "name": "C-Class",
-    "price": "",
-    "image": ""
+    "price": 5990000,
+    "priceText": "₹59.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1019,
     "brandId": 3,
     "name": "E-Class",
-    "price": "",
-    "image": ""
+    "price": 7890000,
+    "priceText": "₹78.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1020,
     "brandId": 3,
     "name": "GLA",
-    "price": "",
-    "image": ""
+    "price": 5090000,
+    "priceText": "₹50.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1021,
     "brandId": 3,
     "name": "GLC",
-    "price": "",
-    "image": ""
+    "price": 7690000,
+    "priceText": "₹76.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1022,
     "brandId": 3,
     "name": "GLE",
-    "price": "",
-    "image": ""
+    "price": 9990000,
+    "priceText": "₹99.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1023,
     "brandId": 3,
     "name": "GLS",
-    "price": "",
-    "image": ""
+    "price": 13200000,
+    "priceText": "₹1.32 Crore",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1024,
     "brandId": 3,
     "name": "EQS",
-    "price": "",
-    "image": ""
+    "price": 16270000,
+    "priceText": "₹1.63 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1025,
     "brandId": 4,
     "name": "Amaze",
-    "price": "",
-    "image": ""
+    "price": 834000,
+    "priceText": "₹8.34 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1026,
     "brandId": 4,
     "name": "City",
-    "price": "",
-    "image": ""
+    "price": 1238000,
+    "priceText": "₹12.38 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1027,
     "brandId": 4,
     "name": "Elevate",
-    "price": "",
-    "image": ""
+    "price": 1191000,
+    "priceText": "₹11.91 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1028,
     "brandId": 4,
     "name": "WR-V",
-    "price": "",
-    "image": ""
+    "price": 909000,
+    "priceText": "₹9.09 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1029,
     "brandId": 4,
     "name": "Jazz",
-    "price": "",
-    "image": ""
+    "price": 816000,
+    "priceText": "₹8.16 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1030,
     "brandId": 4,
     "name": "Civic",
-    "price": "",
-    "image": ""
+    "price": 1795000,
+    "priceText": "₹17.95 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1031,
     "brandId": 5,
     "name": "Grand i10 Nios",
-    "price": "",
-    "image": ""
+    "price": 598000,
+    "priceText": "₹5.98 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1032,
     "brandId": 5,
     "name": "Exter",
-    "price": "",
-    "image": ""
+    "price": 621000,
+    "priceText": "₹6.21 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1033,
     "brandId": 5,
     "name": "Venue",
-    "price": "",
-    "image": ""
+    "price": 794000,
+    "priceText": "₹7.94 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1034,
     "brandId": 5,
     "name": "Creta",
-    "price": "",
-    "image": ""
+    "price": 1124000,
+    "priceText": "₹11.24 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1035,
     "brandId": 5,
     "name": "Alcazar",
-    "price": "",
-    "image": ""
+    "price": 1499000,
+    "priceText": "₹14.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1036,
     "brandId": 5,
     "name": "Verna",
-    "price": "",
-    "image": ""
+    "price": 1110000,
+    "priceText": "₹11.10 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1037,
     "brandId": 5,
     "name": "Tucson",
-    "price": "",
-    "image": ""
+    "price": 2999000,
+    "priceText": "₹29.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1038,
     "brandId": 5,
     "name": "Ioniq 5",
-    "price": "",
-    "image": ""
+    "price": 4655000,
+    "priceText": "₹46.55 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1039,
     "brandId": 6,
     "name": "Glanza",
-    "price": "",
-    "image": ""
+    "price": 690000,
+    "priceText": "₹6.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1040,
     "brandId": 6,
     "name": "Urban Cruiser Taisor",
-    "price": "",
-    "image": ""
+    "price": 774000,
+    "priceText": "₹7.74 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1041,
     "brandId": 6,
     "name": "Rumion",
-    "price": "",
-    "image": ""
+    "price": 1044000,
+    "priceText": "₹10.44 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1042,
     "brandId": 6,
     "name": "Innova Hycross",
-    "price": "",
-    "image": ""
+    "price": 1999000,
+    "priceText": "₹19.99 Lakh",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1043,
     "brandId": 6,
     "name": "Fortuner",
-    "price": "",
-    "image": ""
+    "price": 3605000,
+    "priceText": "₹36.05 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1044,
     "brandId": 6,
     "name": "Hilux",
-    "price": "",
-    "image": ""
+    "price": 3099000,
+    "priceText": "₹30.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1045,
     "brandId": 6,
     "name": "Camry",
-    "price": "",
-    "image": ""
+    "price": 4830000,
+    "priceText": "₹48.30 Lakh",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1046,
     "brandId": 7,
     "name": "Tiago",
-    "price": "",
-    "image": ""
+    "price": 560000,
+    "priceText": "₹5.60 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1047,
     "brandId": 7,
     "name": "Tigor",
-    "price": "",
-    "image": ""
+    "price": 600000,
+    "priceText": "₹6.00 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1048,
     "brandId": 7,
     "name": "Altroz",
-    "price": "",
-    "image": ""
-  },
-  {
-    "id": 1049,
-    "brandId": 7,
-    "name": "Punch",
-    "price": "",
-    "image": ""
-  },
-  {
-    "id": 1050,
-    "brandId": 7,
-    "name": "Nexon",
-    "price": "",
-    "image": ""
-  },
-  {
-    "id": 1051,
-    "brandId": 7,
-    "name": "Harrier",
-    "price": "",
-    "image": ""
-  },
-  {
-    "id": 1052,
-    "brandId": 7,
-    "name": "Safari",
-    "price": "",
-    "image": ""
-  },
-  {
-    "id": 1053,
-    "brandId": 7,
-    "name": "Curvv",
-    "price": "",
-    "image": ""
+    "price": 690000,
+    "priceText": "₹6.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1054,
     "brandId": 8,
     "name": "Bolero",
-    "price": "",
-    "image": ""
+    "price": 979000,
+    "priceText": "₹9.79 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1055,
     "brandId": 8,
     "name": "Thar",
-    "price": "",
-    "image": ""
+    "price": 1199000,
+    "priceText": "₹11.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1056,
     "brandId": 8,
     "name": "XUV 3XO",
-    "price": "",
-    "image": ""
+    "price": 799000,
+    "priceText": "₹7.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1057,
     "brandId": 8,
     "name": "Scorpio N",
-    "price": "",
-    "image": ""
+    "price": 1399000,
+    "priceText": "₹13.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1058,
     "brandId": 8,
     "name": "XUV700",
-    "price": "",
-    "image": ""
+    "price": 1499000,
+    "priceText": "₹14.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1059,
     "brandId": 8,
     "name": "BE 6",
-    "price": "",
-    "image": ""
+    "price": 1890000,
+    "priceText": "₹18.90 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1060,
     "brandId": 9,
     "name": "Alto K10",
-    "price": "",
-    "image": ""
+    "price": 423000,
+    "priceText": "₹4.23 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1061,
     "brandId": 9,
     "name": "S-Presso",
-    "price": "",
-    "image": ""
+    "price": 427000,
+    "priceText": "₹4.27 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1062,
     "brandId": 9,
     "name": "WagonR",
-    "price": "",
-    "image": ""
+    "price": 565000,
+    "priceText": "₹5.65 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1063,
     "brandId": 9,
     "name": "Swift",
-    "price": "",
-    "image": ""
+    "price": 649000,
+    "priceText": "₹6.49 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1064,
     "brandId": 9,
     "name": "Dzire",
-    "price": "",
-    "image": ""
+    "price": 684000,
+    "priceText": "₹6.84 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1065,
     "brandId": 9,
     "name": "Baleno",
-    "price": "",
-    "image": ""
+    "price": 666000,
+    "priceText": "₹6.66 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1066,
     "brandId": 9,
     "name": "Brezza",
-    "price": "",
-    "image": ""
+    "price": 869000,
+    "priceText": "₹8.69 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1067,
     "brandId": 9,
     "name": "Grand Vitara",
-    "price": "",
-    "image": ""
+    "price": 1142000,
+    "priceText": "₹11.42 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1068,
     "brandId": 9,
     "name": "Fronx",
-    "price": "",
-    "image": ""
+    "price": 754000,
+    "priceText": "₹7.54 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1069,
     "brandId": 10,
     "name": "Sonet",
-    "price": "",
-    "image": ""
+    "price": 799000,
+    "priceText": "₹7.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1070,
     "brandId": 10,
     "name": "Syros",
-    "price": "",
-    "image": ""
+    "price": 899000,
+    "priceText": "₹8.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1071,
     "brandId": 10,
     "name": "Seltos",
-    "price": "",
-    "image": ""
+    "price": 1113000,
+    "priceText": "₹11.13 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1072,
     "brandId": 10,
     "name": "Carens",
-    "price": "",
-    "image": ""
+    "price": 1160000,
+    "priceText": "₹11.60 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1073,
     "brandId": 10,
     "name": "Carnival",
-    "price": "",
-    "image": ""
+    "price": 6390000,
+    "priceText": "₹63.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1074,
     "brandId": 10,
     "name": "EV6",
-    "price": "",
-    "image": ""
+    "price": 6097000,
+    "priceText": "₹60.97 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1075,
     "brandId": 11,
     "name": "Comet EV",
-    "price": "",
-    "image": ""
+    "price": 699000,
+    "priceText": "₹6.99 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1076,
     "brandId": 11,
     "name": "Astor",
-    "price": "",
-    "image": ""
+    "price": 999000,
+    "priceText": "₹9.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1077,
     "brandId": 11,
     "name": "Hector",
-    "price": "",
-    "image": ""
+    "price": 1399000,
+    "priceText": "₹13.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1078,
     "brandId": 11,
     "name": "Gloster",
-    "price": "",
-    "image": ""
+    "price": 3999000,
+    "priceText": "₹39.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1079,
     "brandId": 11,
     "name": "Windsor EV",
-    "price": "",
-    "image": ""
+    "price": 1399000,
+    "priceText": "₹13.99 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1080,
     "brandId": 11,
     "name": "ZS EV",
-    "price": "",
-    "image": ""
+    "price": 1898000,
+    "priceText": "₹18.98 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1081,
     "brandId": 12,
     "name": "Kwid",
-    "price": "",
-    "image": ""
+    "price": 470000,
+    "priceText": "₹4.70 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1082,
     "brandId": 12,
     "name": "Kiger",
-    "price": "",
-    "image": ""
+    "price": 615000,
+    "priceText": "₹6.15 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1083,
     "brandId": 12,
     "name": "Triber",
-    "price": "",
-    "image": ""
+    "price": 630000,
+    "priceText": "₹6.30 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1084,
     "brandId": 13,
     "name": "Magnite",
-    "price": "",
-    "image": ""
+    "price": 614000,
+    "priceText": "₹6.14 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1085,
     "brandId": 13,
     "name": "X-Trail",
-    "price": "",
-    "image": ""
+    "price": 4992000,
+    "priceText": "₹49.92 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1086,
     "brandId": 14,
     "name": "Kylaq",
-    "price": "",
-    "image": ""
+    "price": 789000,
+    "priceText": "₹7.89 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1087,
     "brandId": 14,
     "name": "Slavia",
-    "price": "",
-    "image": ""
+    "price": 1069000,
+    "priceText": "₹10.69 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1088,
     "brandId": 14,
     "name": "Kushaq",
-    "price": "",
-    "image": ""
+    "price": 1089000,
+    "priceText": "₹10.89 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1089,
     "brandId": 14,
     "name": "Superb",
-    "price": "",
-    "image": ""
+    "price": 5400000,
+    "priceText": "₹54.00 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1090,
     "brandId": 14,
     "name": "Kodiaq",
-    "price": "",
-    "image": ""
+    "price": 4699000,
+    "priceText": "₹46.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1091,
     "brandId": 15,
     "name": "Virtus",
-    "price": "",
-    "image": ""
+    "price": 1156000,
+    "priceText": "₹11.56 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1092,
     "brandId": 15,
     "name": "Taigun",
-    "price": "",
-    "image": ""
+    "price": 1147000,
+    "priceText": "₹11.47 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1093,
     "brandId": 15,
     "name": "Tiguan R-Line",
-    "price": "",
-    "image": ""
+    "price": 4999000,
+    "priceText": "₹49.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1094,
     "brandId": 16,
     "name": "Compass",
-    "price": "",
-    "image": ""
+    "price": 1899000,
+    "priceText": "₹18.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1095,
     "brandId": 16,
     "name": "Meridian",
-    "price": "",
-    "image": ""
+    "price": 2499000,
+    "priceText": "₹24.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1096,
     "brandId": 16,
     "name": "Wrangler",
-    "price": "",
-    "image": ""
+    "price": 6799000,
+    "priceText": "₹67.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1097,
     "brandId": 16,
     "name": "Grand Cherokee",
-    "price": "",
-    "image": ""
+    "price": 6780000,
+    "priceText": "₹67.80 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1098,
     "brandId": 17,
     "name": "C3",
-    "price": "",
-    "image": ""
+    "price": 634000,
+    "priceText": "₹6.34 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1099,
     "brandId": 17,
     "name": "Basalt",
-    "price": "",
-    "image": ""
+    "price": 799000,
+    "priceText": "₹7.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1100,
     "brandId": 17,
     "name": "Aircross",
-    "price": "",
-    "image": ""
+    "price": 849000,
+    "priceText": "₹8.49 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1101,
     "brandId": 17,
     "name": "eC3",
-    "price": "",
-    "image": ""
+    "price": 1199000,
+    "priceText": "₹11.99 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1102,
     "brandId": 18,
     "name": "EX40",
-    "price": "",
-    "image": ""
+    "price": 5690000,
+    "priceText": "₹56.90 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1103,
     "brandId": 18,
     "name": "XC60",
-    "price": "",
-    "image": ""
+    "price": 6990000,
+    "priceText": "₹69.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1104,
     "brandId": 18,
     "name": "XC90",
-    "price": "",
-    "image": ""
+    "price": 10290000,
+    "priceText": "₹1.03 Crore",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1105,
     "brandId": 18,
     "name": "C40 Recharge",
-    "price": "",
-    "image": ""
+    "price": 6295000,
+    "priceText": "₹62.95 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1106,
     "brandId": 19,
     "name": "F-PACE",
-    "price": "",
-    "image": ""
+    "price": 7250000,
+    "priceText": "₹72.50 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1107,
     "brandId": 19,
     "name": "I-PACE",
-    "price": "",
-    "image": ""
+    "price": 12000000,
+    "priceText": "₹1.20 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1108,
     "brandId": 20,
     "name": "Defender",
-    "price": "",
-    "image": ""
+    "price": 10500000,
+    "priceText": "₹1.05 Crore",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1109,
     "brandId": 20,
     "name": "Discovery Sport",
-    "price": "",
-    "image": ""
+    "price": 6790000,
+    "priceText": "₹67.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1110,
     "brandId": 20,
     "name": "Range Rover Evoque",
-    "price": "",
-    "image": ""
+    "price": 6990000,
+    "priceText": "₹69.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1111,
     "brandId": 20,
     "name": "Range Rover Sport",
-    "price": "",
-    "image": ""
+    "price": 14500000,
+    "priceText": "₹1.45 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1112,
     "brandId": 20,
     "name": "Range Rover",
-    "price": "",
-    "image": ""
+    "price": 24000000,
+    "priceText": "₹2.40 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1113,
     "brandId": 21,
     "name": "ES",
-    "price": "",
-    "image": ""
+    "price": 6400000,
+    "priceText": "₹64.00 Lakh",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1114,
     "brandId": 21,
     "name": "NX",
-    "price": "",
-    "image": ""
+    "price": 6830000,
+    "priceText": "₹68.30 Lakh",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1115,
     "brandId": 21,
     "name": "RX",
-    "price": "",
-    "image": ""
+    "price": 9500000,
+    "priceText": "₹95.00 Lakh",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1116,
     "brandId": 21,
     "name": "LX",
-    "price": "",
-    "image": ""
+    "price": 30000000,
+    "priceText": "₹3.00 Crore",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1117,
     "brandId": 22,
     "name": "Macan",
-    "price": "",
-    "image": ""
+    "price": 9690000,
+    "priceText": "₹96.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1118,
     "brandId": 22,
     "name": "Cayenne",
-    "price": "",
-    "image": ""
+    "price": 14200000,
+    "priceText": "₹1.42 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1119,
     "brandId": 22,
     "name": "911",
-    "price": "",
-    "image": ""
+    "price": 19900000,
+    "priceText": "₹1.99 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1120,
     "brandId": 22,
     "name": "Taycan",
-    "price": "",
-    "image": ""
+    "price": 16700000,
+    "priceText": "₹1.67 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1121,
     "brandId": 22,
     "name": "Panamera",
-    "price": "",
-    "image": ""
+    "price": 17000000,
+    "priceText": "₹1.70 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1122,
     "brandId": 23,
     "name": "Cooper 3 Door",
-    "price": "",
-    "image": ""
+    "price": 4420000,
+    "priceText": "₹44.20 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1123,
     "brandId": 23,
     "name": "Cooper Countryman",
-    "price": "",
-    "image": ""
+    "price": 5490000,
+    "priceText": "₹54.90 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1124,
     "brandId": 24,
     "name": "Roma",
-    "price": "",
-    "image": ""
+    "price": 37600000,
+    "priceText": "₹3.76 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1125,
     "brandId": 24,
     "name": "296 GTB",
-    "price": "",
-    "image": ""
+    "price": 54000000,
+    "priceText": "₹5.40 Crore",
+    "fuel": "Petrol Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1126,
     "brandId": 24,
     "name": "SF90 Stradale",
-    "price": "",
-    "image": ""
+    "price": 75000000,
+    "priceText": "₹7.50 Crore",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1127,
     "brandId": 24,
     "name": "Purosangue",
-    "price": "",
-    "image": ""
+    "price": 105000000,
+    "priceText": "₹10.50 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1128,
     "brandId": 25,
     "name": "Huracan",
-    "price": "",
-    "image": ""
+    "price": 40000000,
+    "priceText": "₹4.00 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1129,
     "brandId": 25,
     "name": "Revuelto",
-    "price": "",
-    "image": ""
+    "price": 89000000,
+    "priceText": "₹8.90 Crore",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1130,
     "brandId": 25,
     "name": "Urus",
-    "price": "",
-    "image": ""
+    "price": 41800000,
+    "priceText": "₹4.18 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1131,
     "brandId": 26,
     "name": "Bentayga",
-    "price": "",
-    "image": ""
+    "price": 50000000,
+    "priceText": "₹5.00 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1132,
     "brandId": 26,
     "name": "Flying Spur",
-    "price": "",
-    "image": ""
+    "price": 52500000,
+    "priceText": "₹5.25 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1133,
     "brandId": 26,
     "name": "Continental GT",
-    "price": "",
-    "image": ""
+    "price": 52300000,
+    "priceText": "₹5.23 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1134,
     "brandId": 27,
     "name": "Ghost",
-    "price": "",
-    "image": ""
+    "price": 69500000,
+    "priceText": "₹6.95 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1135,
     "brandId": 27,
     "name": "Cullinan",
-    "price": "",
-    "image": ""
+    "price": 69500000,
+    "priceText": "₹6.95 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1136,
     "brandId": 27,
     "name": "Phantom",
-    "price": "",
-    "image": ""
+    "price": 95000000,
+    "priceText": "₹9.50 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1137,
     "brandId": 27,
     "name": "Spectre",
-    "price": "",
-    "image": ""
+    "price": 75000000,
+    "priceText": "₹7.50 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1138,
     "brandId": 28,
     "name": "Grecale",
-    "price": "",
-    "image": ""
+    "price": 13100000,
+    "priceText": "₹1.31 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1139,
     "brandId": 28,
     "name": "Ghibli",
-    "price": "",
-    "image": ""
+    "price": 15500000,
+    "priceText": "₹1.55 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1140,
     "brandId": 28,
     "name": "Levante",
-    "price": "",
-    "image": ""
+    "price": 14900000,
+    "priceText": "₹1.49 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1141,
     "brandId": 28,
     "name": "MC20",
-    "price": "",
-    "image": ""
+    "price": 36500000,
+    "priceText": "₹3.65 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1142,
     "brandId": 29,
     "name": "DB12",
-    "price": "",
-    "image": ""
+    "price": 45900000,
+    "priceText": "₹4.59 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1143,
     "brandId": 29,
     "name": "Vantage",
-    "price": "",
-    "image": ""
+    "price": 39900000,
+    "priceText": "₹3.99 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1144,
     "brandId": 29,
     "name": "DBX",
-    "price": "",
-    "image": ""
+    "price": 38200000,
+    "priceText": "₹3.82 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1145,
     "brandId": 30,
     "name": "GT",
-    "price": "",
-    "image": ""
+    "price": 45000000,
+    "priceText": "₹4.50 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1146,
     "brandId": 30,
     "name": "750S",
-    "price": "",
-    "image": ""
+    "price": 59000000,
+    "priceText": "₹5.90 Crore",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1147,
     "brandId": 30,
     "name": "Artura",
-    "price": "",
-    "image": ""
+    "price": 52000000,
+    "priceText": "₹5.20 Crore",
+    "fuel": "Hybrid",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1148,
     "brandId": 31,
     "name": "Model 3",
-    "price": "",
-    "image": ""
+    "price": 6000000,
+    "priceText": "₹60.00 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1149,
     "brandId": 31,
     "name": "Model Y",
-    "price": "",
-    "image": ""
+    "price": 7000000,
+    "priceText": "₹70.00 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1150,
     "brandId": 31,
     "name": "Model S",
-    "price": "",
-    "image": ""
+    "price": 10000000,
+    "priceText": "₹1.00 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1151,
     "brandId": 31,
     "name": "Model X",
-    "price": "",
-    "image": ""
+    "price": 12000000,
+    "priceText": "₹1.20 Crore",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1152,
     "brandId": 31,
     "name": "Cybertruck",
-    "price": "",
-    "image": ""
+    "price": 9000000,
+    "priceText": "₹90.00 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1153,
     "brandId": 32,
     "name": "Atto 3",
-    "price": "",
-    "image": ""
+    "price": 2499000,
+    "priceText": "₹24.99 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1154,
     "brandId": 32,
     "name": "Seal",
-    "price": "",
-    "image": ""
+    "price": 4190000,
+    "priceText": "₹41.90 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1155,
     "brandId": 32,
     "name": "eMAX 7",
-    "price": "",
-    "image": ""
+    "price": 2690000,
+    "priceText": "₹26.90 Lakh",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1156,
     "brandId": 33,
     "name": "D-Max V-Cross",
-    "price": "",
-    "image": ""
+    "price": 2190000,
+    "priceText": "₹21.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1157,
     "brandId": 33,
     "name": "MU-X",
-    "price": "",
-    "image": ""
+    "price": 3790000,
+    "priceText": "₹37.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1158,
     "brandId": 34,
     "name": "Gurkha",
-    "price": "",
-    "image": ""
+    "price": 1690000,
+    "priceText": "₹16.90 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1159,
     "brandId": 34,
     "name": "Urbania",
-    "price": "",
-    "image": ""
+    "price": 3099000,
+    "priceText": "₹30.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1160,
     "brandId": 35,
     "name": "Beat",
-    "price": "",
-    "image": ""
+    "price": 432000,
+    "priceText": "₹4.32 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1161,
     "brandId": 35,
     "name": "Cruze",
-    "price": "",
-    "image": ""
+    "price": 1499000,
+    "priceText": "₹14.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1162,
     "brandId": 35,
     "name": "Captiva",
-    "price": "",
-    "image": ""
+    "price": 2599000,
+    "priceText": "₹25.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1163,
     "brandId": 35,
     "name": "Trailblazer",
-    "price": "",
-    "image": ""
+    "price": 2699000,
+    "priceText": "₹26.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1164,
     "brandId": 36,
     "name": "Pajero Sport",
-    "price": "",
-    "image": ""
+    "price": 2899000,
+    "priceText": "₹28.99 Lakh",
+    "fuel": "Diesel",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1165,
     "brandId": 36,
     "name": "Outlander",
-    "price": "",
-    "image": ""
+    "price": 2699000,
+    "priceText": "₹26.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1166,
     "brandId": 37,
     "name": "Punto",
-    "price": "",
-    "image": ""
+    "price": 549000,
+    "priceText": "₹5.49 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1167,
     "brandId": 37,
     "name": "Linea",
-    "price": "",
-    "image": ""
+    "price": 749000,
+    "priceText": "₹7.49 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1168,
     "brandId": 37,
     "name": "Avventura",
-    "price": "",
-    "image": ""
+    "price": 699000,
+    "priceText": "₹6.99 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1169,
     "brandId": 38,
     "name": "redi-GO",
-    "price": "",
-    "image": ""
+    "price": 383000,
+    "priceText": "₹3.83 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1170,
     "brandId": 38,
     "name": "GO",
-    "price": "",
-    "image": ""
+    "price": 403000,
+    "priceText": "₹4.03 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1171,
     "brandId": 38,
     "name": "GO Plus",
-    "price": "",
-    "image": ""
+    "price": 425000,
+    "priceText": "₹4.25 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1172,
     "brandId": 39,
     "name": "Corsa",
-    "price": "",
-    "image": ""
+    "price": 450000,
+    "priceText": "₹4.50 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1173,
     "brandId": 39,
     "name": "Astra",
-    "price": "",
-    "image": ""
+    "price": 750000,
+    "priceText": "₹7.50 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   },
   {
     "id": 1174,
     "brandId": 39,
     "name": "Vectra",
-    "price": "",
-    "image": ""
+    "price": 1200000,
+    "priceText": "₹12.00 Lakh",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/images/car_placeholder.webp"
   }
-]
+ ]
