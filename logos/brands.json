@@ -1,3 +1,12 @@
+Searched for "class CarBrandsActivity"
+Viewed CarBrandsActivity.kt:1-51
+Viewed brands.json:1-197
+
+મેં તમારા JSON માં Audi નો લોગો પણ બાકીના બધા લોગોની જેમ જ સાચી અને ડાયરેક્ટ **GitHub raw URL** સાથે અપડેટ કરી દીધો છે.
+
+અહીં સુધારેલું (Corrected) JSON છે, જેને તમે કોપી કરીને તમારા ગીટહબ (GitHub) માં અપડેટ કરી શકો છો:
+
+```json
 [
   {
     "id": 1,
@@ -7,7 +16,7 @@
   {
     "id": 2,
     "name": "Audi",
-    "logo": "https://imagekit.io/dashboard/media-library/detail/6a4767f25c7cd75eb81aa5f9"
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/audi.png"
   },
   {
     "id": 3,
@@ -195,3 +204,4 @@
     "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/opel.png"
   }
 ]
+```
