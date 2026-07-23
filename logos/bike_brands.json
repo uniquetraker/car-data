@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Hero",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-hero.png"
+  },
+  {
+    "id": 2,
+    "name": "Honda",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-honda.png"
+  },
+  {
+    "id": 3,
+    "name": "TVS",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-tvs.png"
+  },
+  {
+    "id": 4,
+    "name": "Bajaj",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-bajaj.png"
+  },
+  {
+    "id": 5,
+    "name": "Yamaha",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-placeholder.png"
+  },
+  {
+    "id": 6,
+    "name": "Royal Enfield",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-royal-enfield.png"
+  },
+  {
+    "id": 7,
+    "name": "Suzuki",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-suzuki.png"
+  },
+  {
+    "id": 8,
+    "name": "KTM",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-ktm.png"
+  },
+  {
+    "id": 9,
+    "name": "Kawasaki",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-kawasaki.png"
+  },
+  {
+    "id": 10,
+    "name": "BMW Motorrad",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-bmw-motorrad.png"
+  },
+  {
+    "id": 11,
+    "name": "Harley-Davidson",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-harley-davidson.png"
+  },
+  {
+    "id": 12,
+    "name": "Triumph",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-triumph.png"
+  },
+  {
+    "id": 13,
+    "name": "Ducati",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-ducati.png"
+  },
+  {
+    "id": 14,
+    "name": "Jawa",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-jawa.png"
+  },
+  {
+    "id": 15,
+    "name": "Yezdi",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-yezdi.png"
+  },
+  {
+    "id": 16,
+    "name": "Vespa",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-vespa.png"
+  },
+  {
+    "id": 17,
+    "name": "Aprilia",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-aprilia.png"
+  },
+  {
+    "id": 18,
+    "name": "Ather Energy",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-ather-energy.png"
+  },
+  {
+    "id": 19,
+    "name": "Ola Electric",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-ola-electric.png"
+  },
+  {
+    "id": 20,
+    "name": "Revolt Motors",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-placeholder.png"
+  },
+  {
+    "id": 21,
+    "name": "Keeway",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-keeway.png"
+  },
+  {
+    "id": 22,
+    "name": "Benelli",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-benelli.png"
+  },
+  {
+    "id": 23,
+    "name": "Husqvarna",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-husqvarna.png"
+  },
+  {
+    "id": 24,
+    "name": "Moto Guzzi",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-moto-guzzi.png"
+  },
+  {
+    "id": 25,
+    "name": "MV Agusta",
+    "logo": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/brand-mv-agusta.png"
+  }
+]

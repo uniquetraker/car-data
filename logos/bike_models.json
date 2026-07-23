@@ -1,0 +1,875 @@
+[
+  {
+    "id": 2001,
+    "brandId": 1,
+    "name": "Splendor Plus",
+    "price": 73400,
+    "priceText": "₹ 73,400 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/hero-splendor-plus.jpg"
+  },
+  {
+    "id": 2002,
+    "brandId": 1,
+    "name": "HF Deluxe",
+    "price": 62000,
+    "priceText": "₹ 62,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/hero-hf-deluxe.jpg"
+  },
+  {
+    "id": 2003,
+    "brandId": 1,
+    "name": "Glamour",
+    "price": 82000,
+    "priceText": "₹ 82,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/hero-glamour.jpg"
+  },
+  {
+    "id": 2004,
+    "brandId": 1,
+    "name": "Passion Pro",
+    "price": 75000,
+    "priceText": "₹ 75,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2005,
+    "brandId": 1,
+    "name": "XPulse 200",
+    "price": 145000,
+    "priceText": "₹ 1.45 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/hero-xpulse-200.jpg"
+  },
+  {
+    "id": 2006,
+    "brandId": 2,
+    "name": "Activa 6G",
+    "price": 76000,
+    "priceText": "₹ 76,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/honda-activa-6g.jpg"
+  },
+  {
+    "id": 2007,
+    "brandId": 2,
+    "name": "SP 125",
+    "price": 86000,
+    "priceText": "₹ 86,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/honda-sp-125.jpg"
+  },
+  {
+    "id": 2008,
+    "brandId": 2,
+    "name": "Shine 125",
+    "price": 80000,
+    "priceText": "₹ 80,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2009,
+    "brandId": 2,
+    "name": "Unicorn",
+    "price": 110000,
+    "priceText": "₹ 1.10 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/honda-unicorn.jpg"
+  },
+  {
+    "id": 2010,
+    "brandId": 2,
+    "name": "Hornet 2.0",
+    "price": 139000,
+    "priceText": "₹ 1.39 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/honda-hornet-2-0.jpg"
+  },
+  {
+    "id": 2011,
+    "brandId": 3,
+    "name": "Apache RTR 160",
+    "price": 119000,
+    "priceText": "₹ 1.19 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tvs-apache-rtr-160.jpg"
+  },
+  {
+    "id": 2012,
+    "brandId": 3,
+    "name": "Jupiter",
+    "price": 73000,
+    "priceText": "₹ 73,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tvs-jupiter.jpg"
+  },
+  {
+    "id": 2013,
+    "brandId": 3,
+    "name": "Raider 125",
+    "price": 95000,
+    "priceText": "₹ 95,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tvs-raider-125.jpg"
+  },
+  {
+    "id": 2014,
+    "brandId": 3,
+    "name": "Ntorq 125",
+    "price": 84000,
+    "priceText": "₹ 84,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tvs-ntorq-125.jpg"
+  },
+  {
+    "id": 2015,
+    "brandId": 3,
+    "name": "Apache RR 310",
+    "price": 272000,
+    "priceText": "₹ 2.72 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/tvs-apache-rr-310.jpg"
+  },
+  {
+    "id": 2016,
+    "brandId": 4,
+    "name": "Pulsar 150",
+    "price": 110000,
+    "priceText": "₹ 1.10 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bajaj-pulsar-150.jpg"
+  },
+  {
+    "id": 2017,
+    "brandId": 4,
+    "name": "Pulsar NS200",
+    "price": 149000,
+    "priceText": "₹ 1.49 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bajaj-pulsar-ns200.jpg"
+  },
+  {
+    "id": 2018,
+    "brandId": 4,
+    "name": "Platina 100",
+    "price": 68000,
+    "priceText": "₹ 68,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bajaj-platina-100.jpg"
+  },
+  {
+    "id": 2019,
+    "brandId": 4,
+    "name": "Avenger Cruise 220",
+    "price": 143000,
+    "priceText": "₹ 1.43 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bajaj-avenger-cruise-220.jpg"
+  },
+  {
+    "id": 2020,
+    "brandId": 4,
+    "name": "Cetak",
+    "price": 120000,
+    "priceText": "₹ 1.20 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bajaj-cetak.jpg"
+  },
+  {
+    "id": 2021,
+    "brandId": 5,
+    "name": "YZF R15",
+    "price": 182000,
+    "priceText": "₹ 1.82 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yamaha-yzf-r15.jpg"
+  },
+  {
+    "id": 2022,
+    "brandId": 5,
+    "name": "MT 15",
+    "price": 168000,
+    "priceText": "₹ 1.68 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yamaha-mt-15.jpg"
+  },
+  {
+    "id": 2023,
+    "brandId": 5,
+    "name": "FZ S FI",
+    "price": 122000,
+    "priceText": "₹ 1.22 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yamaha-fz-s-fi.jpg"
+  },
+  {
+    "id": 2024,
+    "brandId": 5,
+    "name": "Aerox 155",
+    "price": 147000,
+    "priceText": "₹ 1.47 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yamaha-aerox-155.jpg"
+  },
+  {
+    "id": 2025,
+    "brandId": 5,
+    "name": "Fascino 125",
+    "price": 80000,
+    "priceText": "₹ 80,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yamaha-fascino-125.jpg"
+  },
+  {
+    "id": 2026,
+    "brandId": 6,
+    "name": "Classic 350",
+    "price": 193000,
+    "priceText": "₹ 1.93 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/royal-enfield-classic-350.jpg"
+  },
+  {
+    "id": 2027,
+    "brandId": 6,
+    "name": "Bullet 350",
+    "price": 173000,
+    "priceText": "₹ 1.73 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/royal-enfield-bullet-350.jpg"
+  },
+  {
+    "id": 2028,
+    "brandId": 6,
+    "name": "Hunter 350",
+    "price": 150000,
+    "priceText": "₹ 1.50 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/royal-enfield-hunter-350.jpg"
+  },
+  {
+    "id": 2029,
+    "brandId": 6,
+    "name": "Meteor 350",
+    "price": 205000,
+    "priceText": "₹ 2.05 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/royal-enfield-meteor-350.jpg"
+  },
+  {
+    "id": 2030,
+    "brandId": 6,
+    "name": "Himalayan 450",
+    "price": 285000,
+    "priceText": "₹ 2.85 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/royal-enfield-himalayan-450.jpg"
+  },
+  {
+    "id": 2031,
+    "brandId": 7,
+    "name": "Access 125",
+    "price": 79000,
+    "priceText": "₹ 79,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/suzuki-access-125.jpg"
+  },
+  {
+    "id": 2032,
+    "brandId": 7,
+    "name": "Gixxer SF",
+    "price": 137000,
+    "priceText": "₹ 1.37 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/suzuki-gixxer-sf.jpg"
+  },
+  {
+    "id": 2033,
+    "brandId": 7,
+    "name": "Burgman Street",
+    "price": 93000,
+    "priceText": "₹ 93,000 onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/suzuki-burgman-street.jpg"
+  },
+  {
+    "id": 2034,
+    "brandId": 7,
+    "name": "V-Strom SX",
+    "price": 211000,
+    "priceText": "₹ 2.11 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/suzuki-v-strom-sx.jpg"
+  },
+  {
+    "id": 2035,
+    "brandId": 7,
+    "name": "Hayabusa",
+    "price": 1690000,
+    "priceText": "₹ 16.90 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/suzuki-hayabusa.jpg"
+  },
+  {
+    "id": 2036,
+    "brandId": 8,
+    "name": "Duke 200",
+    "price": 196000,
+    "priceText": "₹ 1.96 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ktm-duke-200.jpg"
+  },
+  {
+    "id": 2037,
+    "brandId": 8,
+    "name": "Duke 390",
+    "price": 310000,
+    "priceText": "₹ 3.10 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ktm-duke-390.jpg"
+  },
+  {
+    "id": 2038,
+    "brandId": 8,
+    "name": "RC 200",
+    "price": 217000,
+    "priceText": "₹ 2.17 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ktm-rc-200.jpg"
+  },
+  {
+    "id": 2039,
+    "brandId": 8,
+    "name": "Adventure 390",
+    "price": 338000,
+    "priceText": "₹ 3.38 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2040,
+    "brandId": 9,
+    "name": "Ninja 300",
+    "price": 343000,
+    "priceText": "₹ 3.43 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/kawasaki-ninja-300.jpg"
+  },
+  {
+    "id": 2041,
+    "brandId": 9,
+    "name": "Ninja 400",
+    "price": 524000,
+    "priceText": "₹ 5.24 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/kawasaki-ninja-400.jpg"
+  },
+  {
+    "id": 2042,
+    "brandId": 9,
+    "name": "Z900",
+    "price": 929000,
+    "priceText": "₹ 9.29 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/kawasaki-z900.jpg"
+  },
+  {
+    "id": 2043,
+    "brandId": 9,
+    "name": "Ninja ZX-10R",
+    "price": 1679000,
+    "priceText": "₹ 16.79 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/kawasaki-ninja-zx-10r.jpg"
+  },
+  {
+    "id": 2044,
+    "brandId": 10,
+    "name": "G 310 R",
+    "price": 290000,
+    "priceText": "₹ 2.90 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2045,
+    "brandId": 10,
+    "name": "G 310 RR",
+    "price": 305000,
+    "priceText": "₹ 3.05 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2046,
+    "brandId": 10,
+    "name": "R 1250 GS",
+    "price": 2050000,
+    "priceText": "₹ 20.50 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bmw-motorrad-r-1250-gs.jpg"
+  },
+  {
+    "id": 2047,
+    "brandId": 10,
+    "name": "S 1000 RR",
+    "price": 2075000,
+    "priceText": "₹ 20.75 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bmw-motorrad-s-1000-rr.jpg"
+  },
+  {
+    "id": 2048,
+    "brandId": 11,
+    "name": "X440",
+    "price": 239000,
+    "priceText": "₹ 2.39 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/harley-davidson-x440.jpg"
+  },
+  {
+    "id": 2049,
+    "brandId": 11,
+    "name": "Iron 883",
+    "price": 1199000,
+    "priceText": "₹ 11.99 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/harley-davidson-iron-883.jpg"
+  },
+  {
+    "id": 2050,
+    "brandId": 11,
+    "name": "Fat Boy",
+    "price": 2449000,
+    "priceText": "₹ 24.49 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/harley-davidson-fat-boy.jpg"
+  },
+  {
+    "id": 2051,
+    "brandId": 11,
+    "name": "Sportster S",
+    "price": 1649000,
+    "priceText": "₹ 16.49 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/harley-davidson-sportster-s.jpg"
+  },
+  {
+    "id": 2052,
+    "brandId": 12,
+    "name": "Speed 400",
+    "price": 233000,
+    "priceText": "₹ 2.33 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/triumph-speed-400.jpg"
+  },
+  {
+    "id": 2053,
+    "brandId": 12,
+    "name": "Scrambler 400X",
+    "price": 263000,
+    "priceText": "₹ 2.63 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/triumph-scrambler-400x.jpg"
+  },
+  {
+    "id": 2054,
+    "brandId": 12,
+    "name": "Trident 660",
+    "price": 825000,
+    "priceText": "₹ 8.25 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/triumph-trident-660.jpg"
+  },
+  {
+    "id": 2055,
+    "brandId": 12,
+    "name": "Tiger Sport 660",
+    "price": 945000,
+    "priceText": "₹ 9.45 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/triumph-tiger-sport-660.jpg"
+  },
+  {
+    "id": 2056,
+    "brandId": 13,
+    "name": "Monster",
+    "price": 1295000,
+    "priceText": "₹ 12.95 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ducati-monster.jpg"
+  },
+  {
+    "id": 2057,
+    "brandId": 13,
+    "name": "Panigale V2",
+    "price": 2068000,
+    "priceText": "₹ 20.68 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ducati-panigale-v2.jpg"
+  },
+  {
+    "id": 2058,
+    "brandId": 13,
+    "name": "Scrambler Icon",
+    "price": 1039000,
+    "priceText": "₹ 10.39 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ducati-scrambler-icon.jpg"
+  },
+  {
+    "id": 2059,
+    "brandId": 13,
+    "name": "Multistrada V2",
+    "price": 1605000,
+    "priceText": "₹ 16.05 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ducati-multistrada-v2.jpg"
+  },
+  {
+    "id": 2060,
+    "brandId": 14,
+    "name": "Jawa 350",
+    "price": 214000,
+    "priceText": "₹ 2.14 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/jawa-jawa-350.jpg"
+  },
+  {
+    "id": 2061,
+    "brandId": 14,
+    "name": "Forty Two",
+    "price": 172000,
+    "priceText": "₹ 1.72 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/jawa-forty-two.jpg"
+  },
+  {
+    "id": 2062,
+    "brandId": 14,
+    "name": "Perak",
+    "price": 213000,
+    "priceText": "₹ 2.13 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/jawa-perak.jpg"
+  },
+  {
+    "id": 2063,
+    "brandId": 14,
+    "name": "42 Bobber",
+    "price": 206000,
+    "priceText": "₹ 2.06 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/jawa-42-bobber.jpg"
+  },
+  {
+    "id": 2064,
+    "brandId": 15,
+    "name": "Roadster",
+    "price": 206000,
+    "priceText": "₹ 2.06 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yezdi-roadster.jpg"
+  },
+  {
+    "id": 2065,
+    "brandId": 15,
+    "name": "Scrambler",
+    "price": 210000,
+    "priceText": "₹ 2.10 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yezdi-scrambler.jpg"
+  },
+  {
+    "id": 2066,
+    "brandId": 15,
+    "name": "Adventure",
+    "price": 216000,
+    "priceText": "₹ 2.16 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/yezdi-adventure.jpg"
+  },
+  {
+    "id": 2067,
+    "brandId": 16,
+    "name": "VXL 150",
+    "price": 145000,
+    "priceText": "₹ 1.45 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/vespa-vxl-150.jpg"
+  },
+  {
+    "id": 2068,
+    "brandId": 16,
+    "name": "SXL 150",
+    "price": 149000,
+    "priceText": "₹ 1.49 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/vespa-sxl-150.jpg"
+  },
+  {
+    "id": 2069,
+    "brandId": 16,
+    "name": "ZX 125",
+    "price": 117000,
+    "priceText": "₹ 1.17 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/vespa-zx-125.jpg"
+  },
+  {
+    "id": 2070,
+    "brandId": 16,
+    "name": "Elegante 150",
+    "price": 155000,
+    "priceText": "₹ 1.55 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/vespa-elegante-150.jpg"
+  },
+  {
+    "id": 2071,
+    "brandId": 17,
+    "name": "SR 160",
+    "price": 133000,
+    "priceText": "₹ 1.33 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/aprilia-sr-160.jpg"
+  },
+  {
+    "id": 2072,
+    "brandId": 17,
+    "name": "Storm 125",
+    "price": 112000,
+    "priceText": "₹ 1.12 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/aprilia-storm-125.jpg"
+  },
+  {
+    "id": 2073,
+    "brandId": 17,
+    "name": "RS 457",
+    "price": 410000,
+    "priceText": "₹ 4.10 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/aprilia-rs-457.jpg"
+  },
+  {
+    "id": 2074,
+    "brandId": 17,
+    "name": "SXR 160",
+    "price": 144000,
+    "priceText": "₹ 1.44 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/aprilia-sxr-160.jpg"
+  },
+  {
+    "id": 2075,
+    "brandId": 18,
+    "name": "450X",
+    "price": 140000,
+    "priceText": "₹ 1.40 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ather-energy-450x.jpg"
+  },
+  {
+    "id": 2076,
+    "brandId": 18,
+    "name": "450S",
+    "price": 110000,
+    "priceText": "₹ 1.10 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ather-energy-450s.jpg"
+  },
+  {
+    "id": 2077,
+    "brandId": 18,
+    "name": "Apex",
+    "price": 175000,
+    "priceText": "₹ 1.75 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ather-energy-apex.jpg"
+  },
+  {
+    "id": 2078,
+    "brandId": 18,
+    "name": "Rizta",
+    "price": 112000,
+    "priceText": "₹ 1.12 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ather-energy-rizta.jpg"
+  },
+  {
+    "id": 2079,
+    "brandId": 19,
+    "name": "S1 Pro",
+    "price": 130000,
+    "priceText": "₹ 1.30 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ola-electric-s1-pro.jpg"
+  },
+  {
+    "id": 2080,
+    "brandId": 19,
+    "name": "S1 Air",
+    "price": 105000,
+    "priceText": "₹ 1.05 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ola-electric-s1-air.jpg"
+  },
+  {
+    "id": 2081,
+    "brandId": 19,
+    "name": "S1 X",
+    "price": 75000,
+    "priceText": "₹ 75,000 onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ola-electric-s1-x.jpg"
+  },
+  {
+    "id": 2082,
+    "brandId": 19,
+    "name": "Roadster",
+    "price": 75000,
+    "priceText": "₹ 75,000 onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/ola-electric-roadster.jpg"
+  },
+  {
+    "id": 2083,
+    "brandId": 20,
+    "name": "RV400",
+    "price": 135000,
+    "priceText": "₹ 1.35 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/revolt-motors-rv400.jpg"
+  },
+  {
+    "id": 2084,
+    "brandId": 20,
+    "name": "RV300",
+    "price": 110000,
+    "priceText": "₹ 1.10 Lakh onwards",
+    "fuel": "Electric",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/revolt-motors-rv300.jpg"
+  },
+  {
+    "id": 2085,
+    "brandId": 21,
+    "name": "SR125",
+    "price": 120000,
+    "priceText": "₹ 1.20 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/keeway-sr125.jpg"
+  },
+  {
+    "id": 2086,
+    "brandId": 21,
+    "name": "K-Light 250V",
+    "price": 320000,
+    "priceText": "₹ 3.20 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/keeway-k-light-250v.jpg"
+  },
+  {
+    "id": 2087,
+    "brandId": 21,
+    "name": "Vieste 300",
+    "price": 325000,
+    "priceText": "₹ 3.25 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/keeway-vieste-300.jpg"
+  },
+  {
+    "id": 2088,
+    "brandId": 22,
+    "name": "Imperiale 400",
+    "price": 235000,
+    "priceText": "₹ 2.35 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/benelli-imperiale-400.jpg"
+  },
+  {
+    "id": 2089,
+    "brandId": 22,
+    "name": "TRK 251",
+    "price": 295000,
+    "priceText": "₹ 2.95 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2090,
+    "brandId": 22,
+    "name": "502C",
+    "price": 585000,
+    "priceText": "₹ 5.85 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/bike-placeholder.jpg"
+  },
+  {
+    "id": 2091,
+    "brandId": 23,
+    "name": "Vitpilen 250",
+    "price": 215000,
+    "priceText": "₹ 2.15 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/husqvarna-vitpilen-250.jpg"
+  },
+  {
+    "id": 2092,
+    "brandId": 23,
+    "name": "Svartpilen 250",
+    "price": 220000,
+    "priceText": "₹ 2.20 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/husqvarna-svartpilen-250.jpg"
+  },
+  {
+    "id": 2093,
+    "brandId": 23,
+    "name": "Svartpilen 401",
+    "price": 292000,
+    "priceText": "₹ 2.92 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/husqvarna-svartpilen-401.jpg"
+  },
+  {
+    "id": 2094,
+    "brandId": 24,
+    "name": "V7",
+    "price": 1015000,
+    "priceText": "₹ 10.15 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/moto-guzzi-v7.jpg"
+  },
+  {
+    "id": 2095,
+    "brandId": 24,
+    "name": "V85 TT",
+    "price": 1540000,
+    "priceText": "₹ 15.40 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/moto-guzzi-v85-tt.jpg"
+  },
+  {
+    "id": 2096,
+    "brandId": 25,
+    "name": "Brutale 800",
+    "price": 2090000,
+    "priceText": "₹ 20.90 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mv-agusta-brutale-800.jpg"
+  },
+  {
+    "id": 2097,
+    "brandId": 25,
+    "name": "Dragster 800",
+    "price": 2190000,
+    "priceText": "₹ 21.90 Lakh onwards",
+    "fuel": "Petrol",
+    "image": "https://raw.githubusercontent.com/uniquetraker/car-data/main/logos/mv-agusta-dragster-800.jpg"
+  }
+]
